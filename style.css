@@ -1,0 +1,35 @@
+* {
+    padding: 10px;
+}
+
+
+div {
+
+    max-height: 400px;
+    max-width: 400px;  
+    
+    background-image: url("Dália.jpg");
+    background-size: cover;
+    background-position: center;
+   
+    box-shadow: inset 6px 6px 13px 3px rgb(255, 5, 180);
+    
+    border-width: 18px;
+    border-style: solid;
+    border-color: rgb(255, 192, 239);
+    
+    outline-width: 20px;
+    outline-style: double;
+    outline-color: plum
+
+    }
+
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    font-style: italic;
+
+    padding-top: 140px;
+    padding-bottom: 200px;   
+}
